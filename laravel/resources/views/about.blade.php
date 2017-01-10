@@ -1,0 +1,5 @@
+@include('header')
+@include('layouts.modalcontact')
+@include('layouts.menu')
+@include('layouts.about')
+@include('footer')
